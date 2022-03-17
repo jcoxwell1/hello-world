@@ -1,6 +1,6 @@
 # hello-world
 Test for Quant
-### H3 NHS BLOCKCHAIN APP
+### NHS BLOCKCHAIN APP
 
 1. Learn how to build
 2. Test on quant
