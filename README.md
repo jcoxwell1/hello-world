@@ -5,3 +5,6 @@ Test for Quant
 1. Learn how to build
 2. Test on quant
 3. Deploy on Quant
+
+> node -v
+> 
